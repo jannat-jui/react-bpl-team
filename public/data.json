@@ -1,0 +1,169 @@
+[
+    {
+        "id": 1,
+        "name": "Mashrafe Mortaza",
+        "age": 37,
+        "role":"Director",
+        "image": "https://i.ibb.co/q1F8rtZ/mashrafe-mortaza.webp",
+        "salary": 520000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 2,
+        "name": "Mushfiqur Rahim",
+        "age": 47,
+        "role":"Director",
+        "image": "https://i.ibb.co/RbP5nKM/mushfiqur-rahim.webp",
+        "salary": 60000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 3,
+        "name": "Shakib Al Hasan",
+        "age": 27,
+        "role":"Director",
+        "image": "https://i.ibb.co/6Z7m9Z4/shakib-al-hasan.webp",
+        "salary": 160000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 4,
+        "name": "Mahmudullah",
+        "age": 52,
+        "role":"Director",
+        "image": "https://i.ibb.co/MVYrRBH/mahmudullah.webp",
+        "salary": 120000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 5,
+        "name": "Tamim Iqbal",
+        "age": 33,
+        "role":"Director",
+        "image": "https://i.ibb.co/KqN86Gd/tamim-iqbal.webp",
+        "salary": 50000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 6,
+        "name": "Shahid Afridi",
+        "age": 55,
+        "role":"Director",
+        "image": "https://i.ibb.co/DDByfR5/shahid-afridi.webp",
+        "salary": 110000,
+        "country": "Pakistan",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 7,
+        "name": "AB de Villiers",
+        "age": 47,
+        "role":"Director",
+        "image": "https://i.ibb.co/TrtCxFk/ab-de-villiers.webp",
+        "salary": 120000,
+        "country": "Africa",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 8,
+        "name": "Brendon McCullum",
+        "age": 27,
+        "role":"Director",
+        "image": "https://i.ibb.co/10zn3MQ/brendon-mccullum.webp",
+        "salary": 60000,
+        "country": "New Zealand",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 9,
+        "name": "Shane Watson",
+        "age": 25,
+        "role":"Director",
+        "image": "https://i.ibb.co/TRFw7rC/shane-watson.webp",
+        "salary": 50000,
+        "country": "Australia",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 10,
+        "name": "Hashim Amla",
+        "age": 27,
+        "role":"Director",
+        "image": "https://i.ibb.co/m5mDW99/hashim-amla.webp",
+        "salary": 60000,
+        "country": "South Africa",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 11,
+        "name": "Kumar Sangakkara",
+        "age": 37,
+        "role":"Director",
+        "image": "https://i.ibb.co/PNg7d4N/kumar-sangakkara.webp",
+        "salary": 80000,
+        "country": "Sri Lanka",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 12,
+        "name": "Moeen Ali",
+        "age": 29,
+        "role":"Director",
+        "image": "https://i.ibb.co/PChXTNx/moeen-ali.webp",
+        "salary": 30000,
+        "country": "England",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 13,
+        "name": "David Warner",
+        "age": 38,
+        "role":"Australia",
+        "image": "https://i.ibb.co/1TSdLtT/david-warner.webp",
+        "salary": 70000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 14,
+        "name": "Mohammad Nabi",
+        "age": 33,
+        "role":"Director",
+        "image": "https://i.ibb.co/h9LxDCg/mohammad-nabi.webp",
+        "salary": 160000,
+        "country": "Afghanistan",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+        
+    },
+    {
+        "id": 15,
+        "name": "Lasith Malinga",
+        "age": 37,
+        "role":"Director",
+        "image": "https://i.ibb.co/7KVvZ3G/lasith-malinga.webp",
+        "salary": 50000,
+        "country": "Sri Lanka",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+        
+    }
+]
